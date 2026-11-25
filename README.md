@@ -223,11 +223,12 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Digikala](https://www.digikala.com/): Digikala Web App
 * [Google Maps](https://www.google.com/maps/): Online maps.
 * [Housing Go](http://www.housing.com): Real estate in India.
+* [Plux](https://plux.nibecarcofeben.com/): Free, offline-first travel planner and itinerary organizer PWA without mandatory login.
 * [StoryRoute](https://storyroute.netlify.app): AI-powered GPS audio tour guide that generates real-time spoken narratives about places around you.
 * [trivago](https://www.trivago.com/): Hotel prices.
 * [Uber Web](https://m.uber.com): Ridesharing app.
 * [Versus](https://versus.com/en): Consumer electronics shopping.
-* [Zirvə](https://zirve-pro.netlify.app): Free GPS altitude finder — know your exact elevation above sea level instantly. No app, no sign-up.
+* [Zirva](https://zirve-pro.netlify.app): Free GPS altitude finder – know your exact elevation above sea level instantly. No app, no sign-up.
 ### Tools and Utilities
 
 * [2brew](https://2brew.github.io/): PWA timer for coffee brewing
